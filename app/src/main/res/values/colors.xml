@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <color name="colorPrimary">#0A252F</color>
+    <color name="colorPrimaryVariant">#0C2B37</color>
+    <color name="colorOnPrimary">@color/white</color>
+
+    <color name="edit_btn">#FFB800</color>
+    <color name="delete_btn">#FF0000</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

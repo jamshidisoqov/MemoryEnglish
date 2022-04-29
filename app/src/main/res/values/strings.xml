@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MemEng</string>
+    <string name="words">Words</string>
+    <string name="game">Game</string>
+    <string name="book_kitob">Book-Kitob</string>
+    <string name="look">Which word you are looking for</string>
+    <string name="uzbek">Uzbek</string>
+    <string name="english">English</string>
+    <string name="question_8">Question 1</string>
+</resources>
